@@ -1,2 +1,2 @@
-# sistema_de_cadastro
-aula que estou fazendo pela Alura sobre git e github
+# Sistema de Cadastro
+Aula que fiz pela Alura sobre git e github
